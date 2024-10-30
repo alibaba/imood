@@ -177,10 +177,8 @@ If you find this repo or paper useful in your research, please kindly star this 
 @article{liu2024imood,
       title={Rethinking Out-of-Distribution Detection on Imbalanced Data Distribution}, 
       author={Liu, Kai and Fu, Zhihang and Jin, Sheng and Chen, Chao and Chen, Ze and Jiang, Rongxin and Zhou, Fan and Chen, Yaowu and Ye, Jieping},
-      year={2024},
-      eprint={2407.16430},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.16430}, 
+      journal={Advances in Neural Information Processing Systems},
+      volume={38},
+      year={2024}
 }
 ```
