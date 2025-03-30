@@ -167,7 +167,7 @@ The implementation details can be found in `models/base.py`.
 
 
 ## Released models
-- [ ] We are working on it. Please stay tuned.
+- [x] Please find the pre-trained weights from [Google Drive](https://drive.google.com/drive/folders/1T0HNgTcZOkq2LvCqNxlhk0kRRR7JvQC9?usp=drive_link)
 
 
 ## Citation
